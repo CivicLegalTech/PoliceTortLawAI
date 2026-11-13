@@ -1,0 +1,21 @@
+Police TortLaw AI v2.1 - License scope
+
+SPDX-License-Identifier: MIT
+
+The accompanying MIT License applies to the original Police TortLaw AI
+application source code and project-authored installer/launcher scripts and
+documentation, to the extent the contributors hold rights in those materials.
+Copyright notice: Copyright (c) 2026 Police TortLaw AI contributors.
+
+This notice does not relicense third-party software, model weights, legal
+documents, research summaries, imported user documents, or other third-party
+content included in or used with the application. Those materials retain
+their respective licenses and terms.
+
+Bundled third-party notices are preserved in runtime/, python/, and the
+application/vendor/ package metadata and license files. IBM Granite 4.0 Micro
+and the Vosk small US English speech model retain their Apache-2.0 terms;
+the Apache-2.0 license text is supplied separately. Any third-party code or
+content embedded in other folders remains subject to its existing notices.
+
+Standard MIT license reference: https://opensource.org/license/mit
